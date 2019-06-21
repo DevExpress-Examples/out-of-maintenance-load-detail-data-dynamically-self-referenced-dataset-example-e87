@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Load detail data dynamically (self-referenced dataset example)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e87/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to provide detail data on-the-fly. This is done by handling the detail grid's <strong>DataBinding</strong> event.</p><p><strong>See also:</strong><br />
